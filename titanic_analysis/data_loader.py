@@ -11,3 +11,4 @@ def load_titanic_data(filepath: str) -> pd.DataFrame:
         pd.DataFrame: Loaded Titanic dataset as a DataFrame.
     """
     pass  # Implement the loading logic here
+print("hello world")
